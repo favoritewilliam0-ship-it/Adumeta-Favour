@@ -21,6 +21,5 @@
 ## Projects
 - Churn Prediction using Logistic Regression
 - Linear Regression Analysis
-- FAQ Chatbot
-- FarmersKonnect
 - Data Preprocessing for machine learning
+- Decision Tree Classifier
