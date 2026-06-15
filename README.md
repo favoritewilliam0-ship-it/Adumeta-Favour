@@ -23,3 +23,5 @@
 - Linear Regression Analysis
 - Data Preprocessing for machine learning
 - Decision Tree Classifier
+- RandomForestClassifier
+- MNIST Classification with keras
